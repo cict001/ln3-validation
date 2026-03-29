@@ -30,7 +30,6 @@ Click the badge above to open in Google Colab and run all key results in your br
     reproduce_main_results.ipynb   ← START HERE (Colab notebook)
     analysis/                      ← Core analysis scripts
     figures/                       ← Figure generation scripts
-    supplement/                    ← Supplementary analysis
 
 ---
 
